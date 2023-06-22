@@ -1,2 +1,9 @@
-# streamlit-hancav-hello-world
-streamlit public hancav hello world
+title: Testing
+emoji: 🦀
+colorFrom: purple
+colorTo: gray
+sdk: streamlit
+sdk_version: 1.21.0
+app_file: app.py
+pinned: false
+license: apache-2.0
